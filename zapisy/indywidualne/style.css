@@ -1,0 +1,55 @@
+.badge {
+    vertical-align: top;
+}
+
+.tutor-name{
+    padding-bottom: 10px;
+    padding-right: 6px;
+    display: inline-block
+}
+
+
+.modal { 
+    overflow: auto !important; 
+}
+
+.form-label{
+    margin-top: 10px;
+    margin-bottom: 5px !important;
+}
+
+.cell {
+    color: black;
+    height: 100%;
+    border-radius: 50px;
+    border: solid white 12px !important;
+}
+
+.rezerw-button {
+    position:absolute !important; 
+    right:15px !important; 
+    bottom:0px !important; 
+    border-bottom-right-radius: 24px !important;
+    border-top-left-radius: 24px !important;
+    font-size: 16px !important;
+    font-weight: bold !important;
+}
+
+.rezerw-img {
+    height: auto !important;
+    border: solid #000 3px !important;
+    border-radius: 24px 8px 24px 8px;
+    height: 6.5em; 
+    width: 6.5em;
+}
+
+.col-auto{
+    padding-right: 0px !important;
+}
+
+
+.tutorcard{
+    margin-bottom: 24px; 
+}
+
+
